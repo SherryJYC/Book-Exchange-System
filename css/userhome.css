@@ -1,0 +1,66 @@
+#outContainer {background-color:PapayaWhip ; font-family:Courier; border: 5px dashed Maroon;
+		height: 20%;padding: 30px; text-align:center;
+		}
+
+.inContainer {background-color:OldLace; margin-left: 30px; margin-top:30px;display:inline-block;
+		border: 2px solid Maroon; border-radius: 10px;height: 20%; width: 40%; text-align:center;
+}
+
+#anContainer {background-color:OldLace; margin-left: 10px; margin-top:30px;display:inline-block;
+		border: 2px solid Maroon; border-radius: 10px;padding-bottom:10px;
+		max-height: 300px; width: 50%; overflow: scroll;}
+
+.titleBar {color:OldLace;background-color:Maroon;margin-top: 0px;text-align: center;font-weight:bold;}
+
+.titleForm {color:Maroon;font-weight:bold;}
+.btn {background-color:Maroon; color:PapayaWhip; border-radius: 10px;font-weight:bold;margin-top:10px;
+  padding: 5px 5px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  box-shadow: 0 5px #999;}
+.btn:hover {background-color: tomato;}
+.btn:active {
+  background-color: tomato;
+  box-shadow: 0 3px #666;
+  transform: translateY(4px);
+}
+
+a {text-decoration:none; color:Maroon;font-weight:bold;}
+a:hover {background-color:lightgray;color:Maroon;border-radius:5px;}
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: orange; 
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background:tomato; 
+}
+#welcome {color:Maroon;font-weight:bold;}
+
+th, td {border:1px solid Maroon; border-collapse: collapse;}
+th {background-color:Maroon; color: white; font-weight:bold;font-size:20px;}
+td {color:SaddleBrown; font-weight:bold; }
+tr:hover {background-color: #ddd;}
+
+#top {border: 2px solid Maroon; border-radius: 10px;background-color:Maroon;color:PapayaWhip}
+
+#recommendationList {margin-left:5%;margin-right:5%;text-align:center;align:center;border:none;}
+.bookBar {color:OldLace;background-color:Maroon;margin-top: 0px;text-align: center;font-weight:bold;border-radius:10px;}
+.inforBar {color:Maroon;background-color:OldLace;margin-top: 0px;text-align: center;font-weight:bold;border-radius:10px;}
+
+
+
+
